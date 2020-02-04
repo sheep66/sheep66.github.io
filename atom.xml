@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Alexlanderの博客</title>
-  <icon>https://mengcing.xyz/icon.png</icon>
+  <icon>https://sheep66.top/icon.png</icon>
   <subtitle>有时间就记记偶然想起来的事</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://mengcing.xyz/"/>
+  <link href="https://sheep66.top/"/>
   <updated>2020-02-02T14:50:01.809Z</updated>
-  <id>https://mengcing.xyz/</id>
+  <id>https://sheep66.top/</id>
   
   <author>
     <name>Alexlander</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://mengcing.xyz/archives/4a17b156.html"/>
-    <id>https://mengcing.xyz/archives/4a17b156.html</id>
+    <link href="https://sheep66.top/archives/4a17b156.html"/>
+    <id>https://sheep66.top/archives/4a17b156.html</id>
     <published>2020-02-02T01:44:34.246Z</published>
     <updated>2020-02-02T14:50:01.809Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>红楼梦</title>
-    <link href="https://mengcing.xyz/archives/ec99d5b.html"/>
-    <id>https://mengcing.xyz/archives/ec99d5b.html</id>
+    <link href="https://sheep66.top/archives/ec99d5b.html"/>
+    <id>https://sheep66.top/archives/ec99d5b.html</id>
     <published>2020-02-01T18:26:29.000Z</published>
     <updated>2020-02-02T14:50:01.807Z</updated>
     
@@ -55,9 +55,9 @@
     
     
     
-      <category term="名著" scheme="https://mengcing.xyz/tags/%E5%90%8D%E8%91%97/"/>
+      <category term="名著" scheme="https://sheep66.top/tags/%E5%90%8D%E8%91%97/"/>
     
-      <category term="小说" scheme="https://mengcing.xyz/tags/%E5%B0%8F%E8%AF%B4/"/>
+      <category term="小说" scheme="https://sheep66.top/tags/%E5%B0%8F%E8%AF%B4/"/>
     
   </entry>
   
