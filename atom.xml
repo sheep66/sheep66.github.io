@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://sheep66.top/"/>
-  <updated>2020-02-02T14:50:01.809Z</updated>
+  <updated>2020-02-07T17:58:13.538Z</updated>
   <id>https://sheep66.top/</id>
   
   <author>
@@ -17,47 +17,42 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://sheep66.top/archives/4a17b156.html"/>
-    <id>https://sheep66.top/archives/4a17b156.html</id>
-    <published>2020-02-02T01:44:34.246Z</published>
-    <updated>2020-02-02T14:50:01.809Z</updated>
+    <title>Hexo搭建博客</title>
+    <link href="https://sheep66.top/archives/178c0d2c.html"/>
+    <id>https://sheep66.top/archives/178c0d2c.html</id>
+    <published>2020-02-07T17:26:54.000Z</published>
+    <updated>2020-02-07T17:58:13.538Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;Hexo&lt;/a&gt;! This is your very first
-        
-      
+      &lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;在家不能出门,所以就搭建一个Hexo玩玩,我是用的window电脑,搭建博客使用的是Hexo 4.2v和主题NexT 7.7v,使用的平台比较新,NexT主题7.7版本的配置非常的少,只找到一两篇教程,磕磕绊绊花了两三天算是基本搭出来了。&lt;/p&gt;
     
     </summary>
     
     
+      <category term="博客" scheme="https://sheep66.top/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="hexo" scheme="https://sheep66.top/tags/hexo/"/>
+    
+      <category term="next" scheme="https://sheep66.top/tags/next/"/>
     
   </entry>
   
   <entry>
-    <title>红楼梦</title>
-    <link href="https://sheep66.top/archives/ec99d5b.html"/>
-    <id>https://sheep66.top/archives/ec99d5b.html</id>
-    <published>2020-02-01T18:26:29.000Z</published>
-    <updated>2020-02-02T14:50:01.807Z</updated>
+    <title>Hello World</title>
+    <link href="https://sheep66.top/archives/4a17b156.html"/>
+    <id>https://sheep66.top/archives/4a17b156.html</id>
+    <published>2020-02-07T15:41:10.879Z</published>
+    <updated>2020-02-07T18:04:49.375Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;《红楼梦》，中国古代&lt;a href=&quot;https://baike.baidu.com/item/章回体/11018000&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;章回体&lt;/a&gt;&lt;a href=&quot;https://baike.baidu.com/item/长篇小说/7708668&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;长篇小说&lt;/a&gt;，又名《石头记》等，中国古典&lt;a href=&quot;https://baike.baidu.com/item/四大名著/8376&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;四大名著&lt;/a&gt;之一，一般认为是清代作家&lt;a href=&quot;https://baike.baidu.com/item/曹雪芹/14919&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;曹雪芹&lt;/a&gt;所著。小说以贾、史、王、薛&lt;a href=&quot;https://baike.baidu.com/item/四大家族/2314013&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;四大家族&lt;/a&gt;的兴衰为背景，以富贵公子&lt;a href=&quot;https://baike.baidu.com/item/贾宝玉/59563&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;贾宝玉&lt;/a&gt;为视角，以贾宝玉与&lt;a href=&quot;https://baike.baidu.com/item/林黛玉/260081&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;林黛玉&lt;/a&gt;、&lt;a href=&quot;https://baike.baidu.com/item/薛宝钗/396702&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;薛宝钗&lt;/a&gt;的爱情婚姻悲剧为主线，描绘了一批举止见识出于须眉之上的闺阁佳人的人生百态，展现了真正的人性美和悲剧美，可以说是一部从各个角度展现女性美以及中国古代社会世态百相的史诗性著作。&lt;/p&gt;
-&lt;p&gt;《红楼梦》版本可分为120回“程本”和80回“脂本”两大系统。程本为&lt;a href=&quot;https://baike.baidu.com/item/程伟元&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;程伟元&lt;/a&gt;排印的印刷本，脂本为&lt;a href=&quot;https://baike.baidu.com/item/脂砚斋&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;脂砚斋&lt;/a&gt;在不同时期抄评的早期手抄本。脂本是程本的底本。&lt;/p&gt;
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener external nofollow noreferrer&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
     
     </summary>
     
     
-    
-      <category term="名著" scheme="https://sheep66.top/tags/%E5%90%8D%E8%91%97/"/>
-    
-      <category term="小说" scheme="https://sheep66.top/tags/%E5%B0%8F%E8%AF%B4/"/>
     
   </entry>
   

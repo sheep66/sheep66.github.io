@@ -3,7 +3,7 @@
     /* code */
     var initCopyCode = function(){
       var copyHtml = '';
-      copyHtml += '<button class="btn-copy" data-clipboard-snippet="">';
+      copyHtml += '<button class="btn-copy" data-clipboard-snippet>';
       //fa fa-globe可以去字体库替换自己想要的图标
       copyHtml += '  <i class="fa fa-clipboard"></i><span>复制</span>';
       copyHtml += '</button>';
