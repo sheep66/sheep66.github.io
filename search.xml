@@ -39,7 +39,7 @@
 <li><p>hexo初始化</p>
 <p>在GitBash窗口执行以下命令：</p>
 <ul>
-<li>使用Hexo命令初始化文件夹<figure class="highlight ebnf"><table><tr><td class="code"><pre><span class="line"><span class="attribute">hexo init</span></span><br></pre></td></tr></table></figure>
+<li>使用hexo命令初始化文件夹<figure class="highlight ebnf"><table><tr><td class="code"><pre><span class="line"><span class="attribute">hexo init</span></span><br></pre></td></tr></table></figure>
 
 
 </li>
