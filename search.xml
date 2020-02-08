@@ -36,18 +36,15 @@
 
 
 <ol start="3">
-<li><p>hexo初始化</p>
+<li>hexo初始化</li>
+</ol>
 <p>在GitBash窗口执行以下命令：</p>
 <ul>
-<li>使用hexo命令初始化文件夹<figure class="highlight ebnf"><table><tr><td class="code"><pre><span class="line"><span class="attribute">hexo init</span></span><br></pre></td></tr></table></figure>
-
-
+<li><p>使用hexo命令初始化文件夹</p>
+<figure class="highlight ebnf"><table><tr><td class="code"><pre><span class="line"><span class="attribute">hexo init</span></span><br></pre></td></tr></table></figure>
 </li>
-</ul>
-</li>
-</ol>
-<ul>
-<li>安装所需要的组件<figure class="highlight cmake"><table><tr><td class="code"><pre><span class="line">npm <span class="keyword">install</span></span><br></pre></td></tr></table></figure>
+<li><p>安装所需要的组件</p>
+<figure class="highlight cmake"><table><tr><td class="code"><pre><span class="line">npm <span class="keyword">install</span></span><br></pre></td></tr></table></figure>
 
 
 </li>
