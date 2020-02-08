@@ -25,8 +25,6 @@
 </ol>
 <figure class="highlight avrasm"><table><tr><td class="code"><pre><span class="line">npm install -g hexo-<span class="keyword">cli</span></span><br></pre></td></tr></table></figure>
 
-
-
 <ol start="2">
 <li>新建文件夹</li>
 </ol>
@@ -41,27 +39,38 @@
 <li><p>hexo初始化</p>
 <p>在GitBash窗口执行以下命令：</p>
 <ul>
-<li><p>使用Hexo命令初始化文件夹</p>
-<figure class="highlight ebnf"><table><tr><td class="code"><pre><span class="line"><span class="attribute">hexo init</span></span><br></pre></td></tr></table></figure>
-</li>
-<li><p>安装所需要的组件</p>
-<figure class="highlight cmake"><table><tr><td class="code"><pre><span class="line">npm <span class="keyword">install</span></span><br></pre></td></tr></table></figure>
-</li>
-<li><p>编译生成静态页面</p>
-<figure class="highlight ebnf"><table><tr><td class="code"><pre><span class="line"><span class="attribute">hexo g</span></span><br></pre></td></tr></table></figure>
-</li>
-<li><p>启动本地服务</p>
-<figure class="highlight ebnf"><table><tr><td class="code"><pre><span class="line"><span class="attribute">hexo s</span></span><br></pre></td></tr></table></figure>
-</li>
-<li><p>测试Hexo是否安装成功</p>
-<p>最后一条命令执行后如果没报错会出现如下画面：</p>
+<li>使用Hexo命令初始化文件夹<figure class="highlight ebnf"><table><tr><td class="code"><pre><span class="line"><span class="attribute">hexo init</span></span><br></pre></td></tr></table></figure>
+
+
 </li>
 </ul>
 </li>
 </ol>
-<img src="/archives/178c0d2c/Hexo20200207\hexook.png" style="zoom: 85%;">
+<ul>
+<li>安装所需要的组件<figure class="highlight cmake"><table><tr><td class="code"><pre><span class="line">npm <span class="keyword">install</span></span><br></pre></td></tr></table></figure>
 
-<pre><code>这时我们在浏览器输入 {% link 红框地址 http://localhost:4000  [external] [title] %},出现下图，那么Hexo的基本安装就完成了：</code></pre><img src="/archives/178c0d2c/Hexo20200207\hexowebbbb.png" style="zoom: 165%;">
+
+</li>
+</ul>
+<ul>
+<li>编译生成静态页面<figure class="highlight ebnf"><table><tr><td class="code"><pre><span class="line"><span class="attribute">hexo g</span></span><br></pre></td></tr></table></figure>
+
+
+</li>
+</ul>
+<ul>
+<li>启动本地服务<figure class="highlight ebnf"><table><tr><td class="code"><pre><span class="line"><span class="attribute">hexo s</span></span><br></pre></td></tr></table></figure>
+
+
+</li>
+</ul>
+<ul>
+<li>测试Hexo是否安装成功最后一条命令执行后如果没报错会出现如下画面：</li>
+</ul>
+<img src="/archives/178c0d2c/Hexo20200207\hexook.png" style="zoom: 85%;">
+     这时我们在浏览器输入 [红框地址](<a href="http://localhost:4000/" rel="external nofollow noreferrer" title="[external] [title]" target>红框地址</a> ),出现下图，那么Hexo的基本安装就完成了：
+
+<img src="/archives/178c0d2c/Hexo20200207\hexowebbbb.png" style="zoom: 165%;">
 
 
 
