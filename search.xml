@@ -11,7 +11,7 @@
 <p>git:  <a href="https://git-scm.com/download/" target="_blank" rel="noopener external nofollow noreferrer">下载直达</a></p>
 <h3 id="Hexo的安装"><a href="#Hexo的安装" class="headerlink" title="Hexo的安装"></a>Hexo的安装</h3><h4 id="Hexo环境安装"><a href="#Hexo环境安装" class="headerlink" title="Hexo环境安装"></a>Hexo环境安装</h4><p> 安装是非常简单的，nodejs和git的安装是非常简单的。如果你实在不会就上网搜安装教程，会有很多的.安装 。</p>
 <p> nodejs安装完成后的检验操作是在dos窗口下输入命令 <code>node -v</code>和<code>npm -v</code>这两个命令就是查看版本信息的。如下图所示: </p>
-<img src="/archives/178c0d2c/Hexo20200207\node_install.png" style="zoom:72%;">
+<img src="/archives/178c0d2c/Hexo20200207\node_install.png" style="zoom:80%;">
 
 <p>git安装完成后的检验操作是：鼠标右键 效果如下图所示：</p>
 <img src="/archives/178c0d2c/Hexo20200207\git_install.png" style="zoom:80%;">
@@ -31,7 +31,7 @@
 <p>在电脑合适的位置新建一个文件夹，名字随意，如hexo，然后进入该文件夹，在该文件夹内右键打开gitbash，如下图：</p>
 <img src="/archives/178c0d2c/Hexo20200207\gitbash.png" style="zoom:80%;">
 
-<img src="/archives/178c0d2c/Hexo20200207\gitbashwindow.png" style="zoom:85%;">
+<img src="/archives/178c0d2c/Hexo20200207\gitbashwindow.png" style="zoom:80%;">
 
 
 
@@ -64,10 +64,10 @@
 <ul>
 <li>测试Hexo是否安装成功最后一条命令执行后如果没报错会出现如下画面：</li>
 </ul>
-<img src="/archives/178c0d2c/Hexo20200207\hexook.png" style="zoom: 85%;">
+<img src="/archives/178c0d2c/Hexo20200207\hexook.png" style="zoom: 80%;">
      这时我们在浏览器输入 [红框地址](<a href="http://localhost:4000/" rel="external nofollow noreferrer" title="[external] [title]" target>红框地址</a> ),出现下图，那么Hexo的基本安装就完成了：
 
-<img src="/archives/178c0d2c/Hexo20200207\hexowebbbb.png" style="zoom: 165%;">
+<img src="/archives/178c0d2c/Hexo20200207\hexowebbbb.png" style="zoom: 80%;">
 
 
 
